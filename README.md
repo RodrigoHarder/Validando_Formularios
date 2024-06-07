@@ -70,10 +70,6 @@ converteRetorno.imagem = imagemURL;
 localStorage.setItem('cadastro', JSON.stringify(converteRetorno))
 ```
 
-## **Funcionalidades**
-
-O resultado pode ser acessado [neste link](https://rodrigoharder.github.io/validando-formularios/).
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
